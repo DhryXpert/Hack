@@ -1,0 +1,16 @@
+nct_id,title,condition,eligibility,location
+NCT001,Breast Cancer Phase 2 Trial,breast cancer;stage 2,Eligible ages 30 to 60. Gender: female.,Mumbai
+NCT002,Lung Cancer Immunotherapy,lung cancer,Eligible ages 40 to 75. Gender: both.,Delhi
+NCT003,Chemotherapy Effects on Colon Cancer,colon cancer,Eligible ages 35 to 70. Gender: male.,Bangalore
+NCT004,Advanced Liver Cancer Study,liver cancer,Eligible ages 50 to 80. Gender: both.,Hyderabad
+NCT005,Pancreatic Cancer Targeted Therapy,pancreatic cancer,Eligible ages 45 to 65. Gender: both.,Chennai
+NCT006,Type 2 Diabetes Treatment Trial,diabetes type 2,Eligible ages 48 to 61. Gender: both.,Surat
+NCT007,Cognitive Therapy for Alzheimer's,alzheimer's disease,Eligible ages 27 to 63. Gender: male.,Ahmedabad
+NCT008,Blood Pressure Control Study,hypertension,Eligible ages 28 to 79. Gender: female.,Ahmedabad
+NCT009,Joint Inflammation Management,rheumatoid arthritis,Eligible ages 49 to 63. Gender: female.,Surat
+NCT0010,Respiratory Support Trial,asthma,Eligible ages 39 to 60. Gender: female.,Vadodara
+NCT0011,Post-COVID Recovery Program,covid-19,Eligible ages 19 to 65. Gender: both.,Vadodara
+NCT0012,Parkinson's Neuromotor Study,parkinson's disease,Eligible ages 45 to 68. Gender: male.,Ahmedabad
+NCT0013,Migraine Prevention Study,migraine,Eligible ages 19 to 71. Gender: female.,Vadodara
+NCT0014,TB Drug Resistance Trial,tuberculosis,Eligible ages 27 to 80. Gender: male.,Baroda
+NCT0015,Thyroid Function Normalization,thyroid disorder,Eligible ages 44 to 61. Gender: male.,Baroda

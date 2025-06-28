@@ -1,0 +1,35 @@
+To add a favicon to your React app (without using Tailwind), follow these steps:
+
+──────────────────────────────────────────────
+✅ 1. Add your favicon image
+
+Save your favicon image as favicon.ico or favicon.png
+
+Place it inside the public/ folder of your React project
+
+Your structure will look like:
+📁 public/
+├── index.html
+├── favicon.ico ← put it here
+└── …
+
+──────────────────────────────────────────────
+✅ 2. Edit public/index.html
+
+Open public/index.html and inside the <head> tag, add:
+
+<link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+Like this:
+
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="utf-8" /> <link rel="icon" href="%PUBLIC_URL%/favicon.ico" /> <meta name="viewport" content="width=device-width, initial-scale=1" /> <title>Match4Cure</title> </head> <body> <div id="root"></div> </body> </html>
+──────────────────────────────────────────────
+✅ 3. Restart your dev server
+
+After saving the changes, stop and restart your development server:
+
+npm start
+
+✅ Your browser tab should now show your custom favicon.
+
+──────────────────────────────────────────────
+Want Help Designing a Fa
